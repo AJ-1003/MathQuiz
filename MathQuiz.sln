@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7B870BDA-C5B6-40B6-B38B-D3A2B7525FEB}"
+	ProjectSection(SolutionItems) = preProject
+		Requirements.txt = Requirements.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathQuiz.App", "MathQuiz.App\MathQuiz.App.csproj", "{ECC5E9FF-3624-4581-86B0-2258EA48BCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC5E9FF-3624-4581-86B0-2258EA48BCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC5E9FF-3624-4581-86B0-2258EA48BCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC5E9FF-3624-4581-86B0-2258EA48BCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC5E9FF-3624-4581-86B0-2258EA48BCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ECC5E9FF-3624-4581-86B0-2258EA48BCEC} = {7B870BDA-C5B6-40B6-B38B-D3A2B7525FEB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F58A72-F165-4EA5-AD89-FA7FEAFD0627}
+	EndGlobalSection
+EndGlobal

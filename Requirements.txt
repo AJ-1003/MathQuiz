@@ -1,0 +1,16 @@
+1. Student to choose between
+	Addition
+	Subtraction
+	Multiplication
+	Division
+2. Choose number of questions they want to answer
+3. Specify if the quiz should be timed or not
+
+- User cannot choose multiple types of questions
+- If random is selected for number of questions then it will be limited to a max of 15
+- Timer should count down from 30sec, and turn red when it reaches 15sec
+- Show number of questions tried and answered correctly
+
+- Exit option only to appear when time runs out
+- Check Answer option used to check answer with a message to show if its correct or not
+- Start button to start the quiz
